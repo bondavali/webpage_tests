@@ -43,7 +43,7 @@ input{
   left: 0;
   top: 0;
   display: inline-block;
-  position: absolute;
+  position: fixed;
   background-color: #73E9FE;
   color: white;
   padding: 16px;
